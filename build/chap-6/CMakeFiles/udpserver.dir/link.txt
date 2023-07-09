@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/udpserver.dir/udpserver.c.o -o ../bin/udpserver  ../lib/libyolanda.a -lpthread 

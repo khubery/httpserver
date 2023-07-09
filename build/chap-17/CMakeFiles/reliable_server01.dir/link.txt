@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/reliable_server01.dir/reliable_server01.c.o -o ../bin/reliable_server01  ../lib/libyolanda.a -lpthread 

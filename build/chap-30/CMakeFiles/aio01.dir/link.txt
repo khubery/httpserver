@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/aio01.dir/aio01.c.o -o ../bin/aio01  ../lib/libyolanda.a -lrt -lpthread 

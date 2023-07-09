@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/pingclient.dir/pingclient.c.o -o ../bin/pingclient  ../lib/libyolanda.a -lpthread 

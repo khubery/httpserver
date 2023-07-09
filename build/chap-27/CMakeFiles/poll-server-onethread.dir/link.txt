@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/poll-server-onethread.dir/poll-server-onethread.c.o -o ../bin/poll-server-onethread  ../lib/libyolanda.a -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/unixstreamclient.dir/unixstreamclient.c.o -o ../bin/unixstreamclient  ../lib/libyolanda.a -lpthread 

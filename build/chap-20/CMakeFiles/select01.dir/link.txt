@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/select01.dir/select01.c.o -o ../bin/select01  ../lib/libyolanda.a -lpthread 

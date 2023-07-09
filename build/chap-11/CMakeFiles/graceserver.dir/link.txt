@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/graceserver.dir/graceserver.c.o -o ../bin/graceserver  ../lib/libyolanda.a -lpthread 

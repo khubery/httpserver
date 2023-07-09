@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/fork01.dir/fork01.c.o -o ../bin/fork01  ../lib/libyolanda.a -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/samplebuffer01.dir/samplebuffer01.c.o -o ../bin/samplebuffer01  ../lib/libyolanda.a -lpthread 

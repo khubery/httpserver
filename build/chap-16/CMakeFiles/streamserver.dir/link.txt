@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/streamserver.dir/streamserver.c.o -o ../bin/streamserver  ../lib/libyolanda.a -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/telnet-server.dir/telnet-server.c.o -o ../bin/telnet-server  ../lib/libyolanda.a -lpthread 

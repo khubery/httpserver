@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/unixdataclient.dir/unixdataclient.c.o -o ../bin/unixdataclient  ../lib/libyolanda.a -lpthread 

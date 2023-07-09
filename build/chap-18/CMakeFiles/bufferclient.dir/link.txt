@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/bufferclient.dir/bufferclient.c.o -o ../bin/bufferclient  ../lib/libyolanda.a -lpthread 

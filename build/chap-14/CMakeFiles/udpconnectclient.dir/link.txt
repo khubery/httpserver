@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/udpconnectclient.dir/udpconnectclient.c.o -o ../bin/udpconnectclient  ../lib/libyolanda.a -lpthread 

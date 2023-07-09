@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/http_server01.dir/http_server01.c.o -o ../bin/http_server01  ../lib/libyolanda.a -lpthread 

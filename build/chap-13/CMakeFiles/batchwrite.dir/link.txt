@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/batchwrite.dir/batchwrite.c.o -o ../bin/batchwrite  ../lib/libyolanda.a -lpthread 

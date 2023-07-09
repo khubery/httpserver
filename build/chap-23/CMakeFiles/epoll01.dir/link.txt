@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/epoll01.dir/epoll01.c.o -o ../bin/epoll01  ../lib/libyolanda.a -lpthread 

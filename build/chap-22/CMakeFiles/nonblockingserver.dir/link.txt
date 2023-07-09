@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/nonblockingserver.dir/nonblockingserver.c.o -o ../bin/nonblockingserver  ../lib/libyolanda.a -lpthread 
